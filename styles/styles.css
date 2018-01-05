@@ -1,0 +1,14 @@
+body {
+  align-items: center;
+  height: auto;
+  display: flex;
+  font-family: "Avenir Next",Avenir,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 18px;
+  justify-content: center;
+}
+
+.header__title {
+  margin-top: 4rem;
+  font-size: 2.0rem;
+  font-weight: 700;
+}
