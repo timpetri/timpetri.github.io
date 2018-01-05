@@ -12,4 +12,4 @@ Thanks for checking out [my website](http://timpetri.com/). Clearly a work in pr
 
 ## License
 
-Released under the MIT license. See [LICENSE](https://github.com/timpetri/timpetri.github.io/LICENSE) for details.
+Released under the MIT license. See [LICENSE](https://github.com/timpetri/timpetri.github.io/blob/master/LICENSE) for details.
