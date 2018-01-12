@@ -1,0 +1,20 @@
+title: Tim Petri
+url: "https://timpetri.com"
+author: "Tim Petri"
+keywords: "tim,petri,code,google,wpi,tech,software"
+github: timpetri
+twitter: timpetri
+email: me@timpetri.com
+
+exclude: [
+  ".gitignore",
+  "CNAME",
+  "LICENSE",
+  "README",
+]
+
+permalink: pretty
+timezone: America/New_York
+
+sass:
+  style: compressed
