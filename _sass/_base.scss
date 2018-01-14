@@ -1,0 +1,30 @@
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  box-sizing: border-box;
+  font-family: "Avenir Next",Avenir,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 18px;
+  height: 100vh;
+  text-rendering: optimizeLegibility;
+  width: 100vw;
+}
+body {
+  margin: 0;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.main {
+  margin-top: 1rem;
+  padding-bottom: 2rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+
+a {
+  color: black;
+}

@@ -1,0 +1,43 @@
+.nav {
+  border-bottom: {
+    color: #D9D9D9;
+    style: solid;
+    width: 1px;
+  };
+  padding: {
+    bottom: .25rem;
+    top: 1.5rem;
+  }
+  width: 100%;
+}
+
+.nav__container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: {
+    left: auto;
+    right: auto;
+  }
+  padding: {
+    left: 1rem;
+    right: 1rem;
+  }
+  max-width: 28rem;
+}
+
+.nav__link {
+  font-size: 0.85rem;
+  font-weight: 500;
+  margin-right: 0.40rem;
+  text-decoration: none;
+  &:last-child { margin-right: 0; }
+}
+
+.nav__link:hover {
+  color: #C60A15;
+}
+
+.twitter:hover {
+  color: #2AA3EF;
+}

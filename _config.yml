@@ -18,3 +18,20 @@ timezone: America/New_York
 
 sass:
   style: compressed
+
+# Here, we are scoping the values to any file that exists in the path scope
+# Without a scope tag this would apply to things such as css as well.
+defaults:
+  -
+    scope:
+      path: "" # Filter, can be globbed, empty = all files in the project.
+      type: pages # pages, posts, drafts or any custom collection in your site
+    values:
+      layout: "empty"
+  -
+    scope:
+      path: "thoughts"
+      type: "posts"
+    values: 
+      layout: "post"
+      author: "Tim Petri"

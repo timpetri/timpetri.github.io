@@ -1,9 +1,10 @@
 ## Hello, GitHub!
 
-Thanks for checking out [my website](http://timpetri.com/). Clearly a work in progress, but for now:
+Thanks for checking out [my website](https://timpetri.com/). Clearly a work in progress, but for now:
 
 - [GitHub Pages](https://pages.github.com) hosts my site.
-- [CloudFlare](http://www.cloudflare.com) powers my DNS.
+- [CloudFlare](https://www.cloudflare.com) powers my DNS.
+- [Jekyll](https://jekyllrb.com) Builds my static pages and manages my thoughts.
 
 ## Contact
 
