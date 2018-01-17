@@ -15,6 +15,14 @@ body {
   flex-direction: column;
   justify-content: space-around;
   align-items: center;
+
+  &.dark {
+    background-color: black;
+  }
+
+  &.light {
+    background-color: white;
+  }
 }
 
 .main {
@@ -24,7 +32,12 @@ body {
   padding-right: 1rem;
 }
 
-
 a {
   color: black;
+}
+
+.dark {
+  .nav {
+    border: black;
+  }
 }

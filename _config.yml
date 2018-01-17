@@ -27,7 +27,7 @@ defaults:
       path: "" # Filter, can be globbed, empty = all files in the project.
       type: pages # pages, posts, drafts or any custom collection in your site
     values:
-      layout: "empty"
+      layout: "base"
   -
     scope:
       path: "thoughts"
