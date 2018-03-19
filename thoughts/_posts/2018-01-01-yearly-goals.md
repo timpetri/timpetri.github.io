@@ -1,7 +1,7 @@
 ---
 author: Tim Petri
 title: Example Post
-published: true
+published: false
 ---
 
 ### Example post
