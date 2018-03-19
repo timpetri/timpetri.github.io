@@ -13,6 +13,14 @@ exclude: [
   "README",
 ]
 
+# Conversion
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM # Adds classes to my markdown
+  syntax_highlighter: rouge
+
 permalink: pretty
 timezone: America/New_York
 
@@ -32,6 +40,7 @@ defaults:
     scope:
       path: "thoughts"
       type: "posts"
+
     values: 
       layout: "post"
       author: "Tim Petri"
