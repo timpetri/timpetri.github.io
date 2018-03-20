@@ -57,29 +57,3 @@
 .highlight .vg { color: #aa0000 } /* Name.Variable.Global */
 .highlight .vi { color: #aa0000 } /* Name.Variable.Instance */
 .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
-
-/* Own additions to code box */
-code {
-    font-size: 14px;
-    background-color: #f9f9f9;
-}
-
-.hightlight {
-  font-family: Menlo, Monaco, "Courier New", monospace;
-}
-
-div.highlight {
-  background-color: #f9f9f9;
-  margin-left: 0.5rem;
-  margin-right: 0.5rem;
-  padding-left: 1rem;
-  padding-right: 1rem;
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
-  border-radius: 6px;
-}
-
-.highlight pre {
-  overflow-x: auto;
-  margin: 0;
-}

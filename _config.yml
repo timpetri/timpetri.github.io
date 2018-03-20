@@ -38,7 +38,7 @@ defaults:
       layout: "base"
   -
     scope:
-      path: "thoughts"
+      path: "blog"
       type: "posts"
 
     values: 
