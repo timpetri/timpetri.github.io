@@ -1,7 +1,7 @@
 ---
 author: Tim Petri
 title: Style Guide
-published: true
+published: false
 ---
 For my reference while writing, but courtesy of my roommate [Tom](https://meagher.co).
 
@@ -79,7 +79,7 @@ Links, emphasis, code, and images.
 
 ### Links
 
-Check out my website's [source code on GitHub](https://github.com/timpetri/timpetri.github.io/).
+MathJax quick reference on [Stack Overflow](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
 
 ### Emphasis
 
