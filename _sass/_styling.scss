@@ -1,0 +1,37 @@
+body {
+  background: #fffefc;
+  color: #330;
+  text-shadow: 1px 1px 1px #fff;
+  font: 300 22px/1.5 "Source Sans Pro", sans-serif;
+}
+
+a, a:visited {
+  color: #330;
+  text-decoration: none;
+  border-bottom: 1px solid #cacaca;
+  border-radius: 2px;
+}
+
+a {
+  font-weight: 400;
+}
+
+a:hover {
+  color: #e88e34;
+  border-bottom: 1px dotted #ddd;
+}
+
+.skyline {
+  width: 450px;
+}
+
+.miscellaneous {
+  font-size: 14px;
+  list-style-type: none;
+  padding: 0;
+}
+
+.miscellaneous-item {
+  display: inline;
+  margin: 0 10px;
+}

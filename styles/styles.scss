@@ -1,8 +1,6 @@
 ---
 ---
 
-@import "base";
-@import "index";
-@import "nav";
-@import "syntax";
-@import "markdown";
+@import "normalize/import-now";
+@import "layout";
+@import "styling";

@@ -1,0 +1,26 @@
+html, body {
+  height: 100%;
+  text-align: center;
+}
+
+.outer-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  max-height: 100%;
+}
+
+.inner-container {
+  padding: 40px 20px;
+}
+
+.skyline-placeholder {
+  height: 100px;
+}
+
+.skyline {
+  margin-bottom: -20px;
+}
+
+.miscellaneous {
+  margin-top: 40px;
+}
